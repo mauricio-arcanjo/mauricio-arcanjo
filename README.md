@@ -7,7 +7,7 @@
 #### • Analytical Problem-Solving and Critical Thinking.
 #### • Multilingual: Fluent in English, Native Portuguese, and Intermediate French.
 
-# Languages and Tools
+## Languages and Tools 💻
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80"/>
 </p>
@@ -24,7 +24,7 @@
 </div></br>
           
 ## GitHub Stats ⚡
-<div>
+<div align="center">
   <a href="https://github.com/Mauricio-Arcanjo">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Arcanjo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
@@ -35,9 +35,18 @@
 </div>
 
 ## Reach me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricioarcanjodosantos/)
-[![Gmail](https://img.shields.io/badge/-mauricioarcanjo.s@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mauricioarcanjo.s@gmail.com)](mauricioarcanjo.s@gmail.com)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/mauricio.a47)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mauricioarcanjodosantos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mauricioarcanjo.s@gmail.com">
+    <img src="https://img.shields.io/badge/-mauricioarcanjo.s@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.duolingo.com/profile/mauricio.a47" target="_blank">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
+  </a>
+</div>
+
           
           
           
