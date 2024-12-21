@@ -23,25 +23,25 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/css3-gray?style=for-the-badge&logo=css3">
 </div></br>
           
-        
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/Mauricio-Arcanjo">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Arcanjo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Arcanjo&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
+
+## Reach me 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricioarcanjodosantos/)
+[![Gmail](https://img.shields.io/badge/-mauricioarcanjo.s@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mauricioarcanjo.s@gmail.com)](mauricioarcanjo.s@gmail.com)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/mauricio.a47)
+          
           
           
 <!--
 **mauricio-arcanjo/mauricio-arcanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
