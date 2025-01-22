@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Mauricio Arcanjo and I'm passionate about programming!
 
-#### • 10+ years experience in electrical and industrial engineering.
+#### • 14+ years experience in electrical and industrial engineering.
 #### • Application Development using Java, Spring Framework (Spring Boot), Jakarta EE, Microservices Architecture and REST API Development.
 #### • Software Testing and Quality Assurance.
 #### • Analytical Problem-Solving and Critical Thinking.
